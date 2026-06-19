@@ -1,0 +1,20 @@
+# AJOUTER UN FILM
+#
+# Format simple :
+# Titre du film | Année | lien d'intégration Tokyvideo
+#
+# Exemple :
+# Mon nouveau film | 2026 | https://www.tokyvideo.com/fr/embed/123456
+#
+# Important :
+# - Le lien doit contenir /embed/
+# - Ne mets pas le lien de la page Tokyvideo normale
+# - Une ligne = un film
+
+Red Notice | 2021 | https://www.tokyvideo.com/fr/embed/714259
+Equalizer 2 | 2018 | https://www.tokyvideo.com/fr/embed/871466
+Equalizer 1 | 2014 | https://www.tokyvideo.com/fr/embed/840638
+De l'autre côté du lit | 2008 | https://www.tokyvideo.com/fr/embed/750467
+Le bonheur n'arrive jamais seul | 2012 | https://www.tokyvideo.com/fr/embed/747314
+Braveheart | 1995 | https://www.tokyvideo.com/fr/embed/766533
+La mémoire dans la peau | 2002 | https://www.tokyvideo.com/fr/embed/812200
